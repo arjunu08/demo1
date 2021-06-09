@@ -23,7 +23,7 @@ The Steam Market History Exporter is a command line tool written completly in Py
 &nbsp;
 
 ## Installation
-
+dd
 Clone this repo and navigate to its root direcory
 
 ```bash
